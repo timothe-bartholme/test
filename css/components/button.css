@@ -1,0 +1,15 @@
+.btn-rolex{
+	background-color: rgba(240, 248, 255, 0.7);
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: black;
+	font-weight: bold;
+	font-family: 'Lato', sans-serif;
+	transition: 0.5s;
+
+}
+.btn-rolex:hover{
+	background-color:rgba(24, 120, 81, 1);
+	color: rgb(183, 146, 64);
+}
+
